@@ -2,6 +2,11 @@ Developer : zosthdev
 
 github link : https://github.com/zosthedev/
 
+Usage: git clone 
+
+https://github.com/zosthedev/Termux-wake-lock-Commands-
+Custom-Shell.git
+
 Usage: cd Termux-wake-lock-commands
 
 Usage: chmod +x termux-lock.sh
