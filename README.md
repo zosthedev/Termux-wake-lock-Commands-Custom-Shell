@@ -1,5 +1,7 @@
 Developer : zosthdev
 
+Discord Server : https://discord.gg/aHQhXvvJqM
+
 github link : https://github.com/zosthedev/
 
 Usage: git clone https://github.com/zosthedev/Termux-wake-lock-Commands-Custom-Shell.git
