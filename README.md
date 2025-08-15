@@ -36,7 +36,7 @@ git clone it to any proot-distro {alias} i.e parrot.
 
 you can just use bash script to acquire wake lock or 
 
-disabled wake lock.
+disable wake lock.
 
 Just tested this in proot-distro using parrot and cloned 
 
