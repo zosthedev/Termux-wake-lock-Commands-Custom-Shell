@@ -5,7 +5,7 @@
 #
 ## Colors ##
 #
-##
+#
 #
 BLACK='\e[0;30m'
 BLUE='\e[0;34m'
