@@ -28,7 +28,7 @@ it.
 
 a simple program to show termux-wake-lock enabled or
 
-diasbled.
+disabled.
 
 If you forget to use command 
 
